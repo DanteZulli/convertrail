@@ -23,10 +23,8 @@ public class CsvReader {
         return null;
     }
 
-    public static File getRandomFile(){
-        // Random CSV File in a folder (Testing Purposes)
-        File dir = new File("C://Users//zullid//Documents//pruebas_convertrail//");
-        File[] files = dir.listFiles();
+    public static File getRandomFile(File directory){
+        File[] files = directory.listFiles();
         Random rand = new Random();
         File csvFile = files[rand.nextInt(files.length)];
         System.out.println("The csv file is: " + csvFile.getName());
