@@ -15,6 +15,8 @@ import java.util.Map;
 // (es decir, sin necesidad de conocer la estructura del CSV de antemano, o modificarla, o crear clases)
 // El principal punto de esta clase es brindar una interfaz sencilla 
 // y estructurada para utilizar y manipular información desde archivos CSV sin luchar tanto.
+// Por ahora solo convierte de CSV a JSON, pero se pueden agregar más métodos para convertir a otros formatos.
+
 public class CsvDynamic {
 
     public static ArrayList<Map<String, Object>> csvToMap(File csvFile) {
