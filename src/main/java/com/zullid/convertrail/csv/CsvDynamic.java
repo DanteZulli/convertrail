@@ -41,12 +41,11 @@ public class CsvDynamic {
         return dataMap;
     }
 
-
     public static void mapToJson(ArrayList<Map<String, Object>> dataMap, String jsonFilePath, String jsonFileName) {
         ObjectMapper objectMapper = new ObjectMapper();
         try {
             objectMapper.writeValue(new File(jsonFilePath + "//" + jsonFileName), dataMap);
-            System.out.println("The array of maps has been written to " + jsonFilePath + " successfully!");
+            System.out.println("**** El arreglo de maps fue guardado en " + jsonFilePath + " satisfactoriamente!");
         } catch (IOException e) {
             e.printStackTrace();
         }
