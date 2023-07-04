@@ -29,6 +29,7 @@
   - [Prerrequisitos](#prerrequisitos)
   - [Que incluye este proyecto?](#que-incluye-este-proyecto)
 - [Roadmap del proyecto](#roadmap-del-proyecto)
+- [To-Do List](#to-do-list)
 - [Contribuciones](#contribuciones)
   - [Creando un Pull Request](#creando-un-pull-request)
 - [Licencia](#licencia)
@@ -123,6 +124,20 @@ CSV de la carpeta csv_pruebas
 
 Podés revisar los [open issues](https://github.com/DanteZulli/convertrail/issues) para ver una lista de las features propuestas (y los bugs conocidos).
 
+## To-Do List
+- [ ] Migrar a REST el ApiController. (Actualmente es un simple HttpClient).
+- [ ] Agregar soporte para otros formatos de archivos (XML, YAML, etc).
+- [ ] Configurar correctamente el sistema de logs (Con log4j2).
+- [ ] Crear algún tipo de interfaz gráfica para el usuario.
+- [ ] Agregar soporte para archivos comprimidos (ZIP, RAR, etc).
+- [ ] Agregar soporte para archivos encriptados (AES, RSA, etc).
+- [ ] Agregar soporte para archivos de texto plano (TXT, DOC, etc).
+- [ ] Desarrollar un sistema de tests para el proyecto (JUnit, Mockito, etc).
+- [ ] Mejorar la estructura del proyecto (Separar en módulos, etc).
+- [ ] Sintetizar el código (Reducir la cantidad de líneas, etc).
+- [ ] Estandarizar el código (Aplicar buenas prácticas, etc).
+
+Entre otras cosas que se irán agregando con el pasar del tiempo.
 ## Contribuciones
 
 Las contribuciones son lo que hacen que la comunidad open source sea un lugar tan increíble para aprender, inspirarse y crear. Cualquier contribución que hagas es **muy apreciada**. :D
