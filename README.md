@@ -4,7 +4,7 @@
     <h1 align="center">Convertrail</h1>
 
   <p align="center">
-      Un wizard conversor de archivos de CSV :D
+      Un wizard conversor de archivos de CSV 🧙
     <br/>
     <a href="https://github.com/DanteZulli/convertrail">Documentación</a>
     .
