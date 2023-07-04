@@ -4,7 +4,7 @@
     <h1 align="center">Convertrail</h1>
 
   <p align="center">
-      Un sencillo conversor de archivos de CSV. 
+      Un wizard conversor de archivos de CSV 🧙
     <br/>
     <a href="https://github.com/DanteZulli/convertrail">Documentación</a>
     .
