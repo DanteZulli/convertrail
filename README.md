@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Downloads](https://img.shields.io/github/downloads/DanteZulli/convertrail/total) ![Contributors](https://img.shields.io/github/contributors/DanteZulli/convertrail?color=dark-greenn) ![Issues](https://img.shields.io/github/issues/DanteZulli/convertrail) ![License](https://img.shields.io/github/license/DanteZulli/convertrail)
+![Downloads](https://img.shields.io/github/downloads/DanteZulli/convertrail/total) ![Contributors](https://img.shields.io/github/contributors/DanteZulli/convertrail?color=dark-greenn) ![Issues](https://img.shields.io/github/issues/DanteZulli/convertrail) ![License](https://img.shields.io/github/license/DanteZulli/convertrail.svg?)
 
 </div>
 
