@@ -1,1 +1,117 @@
-[{"Year":"1998","  Price":"    9991 "," Mileage (thousands)":"  27"},{"Year":"1997","  Price":"    9925 "," Mileage (thousands)":"  17"},{"Year":"1998","  Price":"   10491 "," Mileage (thousands)":"  28"},{"Year":"1998","  Price":"   10990 "," Mileage (thousands)":"   5"},{"Year":"1997","  Price":"    9493 "," Mileage (thousands)":"  38"},{"Year":"1997","  Price":"    9991 "," Mileage (thousands)":"  36"},{"Year":"1997","  Price":"   10490 "," Mileage (thousands)":"  24"},{"Year":"1997","  Price":"    9491 "," Mileage (thousands)":"  37"},{"Year":"1997","  Price":"    9491 "," Mileage (thousands)":"  38"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  30"},{"Year":"1997","  Price":"    9491 "," Mileage (thousands)":"  38"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  25"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  39"},{"Year":"1997","  Price":"    9390 "," Mileage (thousands)":"  22"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  24"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  37"},{"Year":"1997","  Price":"    9990 "," Mileage (thousands)":"  29"},{"Year":"1997","  Price":"    8990 "," Mileage (thousands)":"  70"},{"Year":"1996","  Price":"    7990 "," Mileage (thousands)":"  29"},{"Year":"1995","  Price":"    5994 "," Mileage (thousands)":"  72"},{"Year":"1993","  Price":"    5994 "," Mileage (thousands)":"  72"},{"Year":"1994","  Price":"    5500 "," Mileage (thousands)":"  61"},{"Year":"1998","  Price":"   11000 "," Mileage (thousands)":"   7"}]
+[
+    {
+        "Year": "1998",
+        "  Price": "    9991 ",
+        " Mileage (thousands)": "  27"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9925 ",
+        " Mileage (thousands)": "  17"
+    },
+    {
+        "Year": "1998",
+        "  Price": "   10491 ",
+        " Mileage (thousands)": "  28"
+    },
+    {
+        "Year": "1998",
+        "  Price": "   10990 ",
+        " Mileage (thousands)": "   5"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9493 ",
+        " Mileage (thousands)": "  38"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9991 ",
+        " Mileage (thousands)": "  36"
+    },
+    {
+        "Year": "1997",
+        "  Price": "   10490 ",
+        " Mileage (thousands)": "  24"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9491 ",
+        " Mileage (thousands)": "  37"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9491 ",
+        " Mileage (thousands)": "  38"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  30"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9491 ",
+        " Mileage (thousands)": "  38"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  25"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  39"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9390 ",
+        " Mileage (thousands)": "  22"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  24"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  37"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    9990 ",
+        " Mileage (thousands)": "  29"
+    },
+    {
+        "Year": "1997",
+        "  Price": "    8990 ",
+        " Mileage (thousands)": "  70"
+    },
+    {
+        "Year": "1996",
+        "  Price": "    7990 ",
+        " Mileage (thousands)": "  29"
+    },
+    {
+        "Year": "1995",
+        "  Price": "    5994 ",
+        " Mileage (thousands)": "  72"
+    },
+    {
+        "Year": "1993",
+        "  Price": "    5994 ",
+        " Mileage (thousands)": "  72"
+    },
+    {
+        "Year": "1994",
+        "  Price": "    5500 ",
+        " Mileage (thousands)": "  61"
+    },
+    {
+        "Year": "1998",
+        "  Price": "   11000 ",
+        " Mileage (thousands)": "   7"
+    }
+]
