@@ -10,8 +10,9 @@ import java.util.Map;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
 
-public class CSVFileConverter {
+public class CSVFileConverter implements FileConverter<ArrayList<Map<String, Object>>, File> {
     
+    @Override
     public ArrayList<Map<String, Object>> convert(File file) {
         ArrayList<Map<String, Object>> dataMap = new ArrayList<Map<String, Object>>();
         try (CSVReader reader = new CSVReader(new FileReader(file))) {
