@@ -191,8 +191,11 @@ Podés revisar los [open issues](https://github.com/DanteZulli/convertrail/issue
 - [ ] Agregar soporte para archivos de texto plano (TXT, DOC, etc).
 - [ ] Desarrollar un sistema de tests para el proyecto (JUnit, Mockito, etc).
 - [x] Mejorar la estructura del proyecto (Separar en módulos, etc).
+<br><em> (Se aplicaron patrones de diseño Strategy y Adapter) </em>
 - [x] Sintetizar el código (Reducir la cantidad de líneas, etc).
+<br><em>Se redujo código redundante en gran parte de las clases</em>
 - [x] Estandarizar el código (Aplicar buenas prácticas, etc).
+<br><em>Se aplicaron patrones, y se re-designaron las responsabilidades de cada clase y método</em>
 
 Entre otras cosas que se irán agregando con el pasar del tiempo.
 
